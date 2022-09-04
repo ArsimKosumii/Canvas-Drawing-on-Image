@@ -9,12 +9,16 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@shopify/react-native-skia": "0.1.141",
     "expo": "~46.0.9",
     "expo-status-bar": "~1.4.0",
+    "prop-types": "^15.8.1",
     "react": "18.0.0",
     "react-dom": "18.0.0",
     "react-native": "0.69.5",
-    "react-native-web": "~0.18.7"
+    "react-native-view-shot": "3.3.0",
+    "react-native-web": "~0.18.7",
+    "rn-perfect-sketch-canvas": "^0.1.7"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
